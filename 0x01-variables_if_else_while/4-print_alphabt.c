@@ -10,7 +10,7 @@ int main(void)
 
 	do {
 		if (alpha == 'q' || alpha == 'e')
-			continue
+			continue;
 		putchar(alpha);
 		alpha += 1;
 	} while (alpha <= 'z');
