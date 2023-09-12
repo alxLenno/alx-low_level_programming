@@ -1,9 +1,9 @@
 /**
  * _abs - Gets absolute value of a number
- * @int - is the parameter
+ * @a - is the parameter
  * Return: absolute calue
  */
-int _abs(int)
+int _abs(int a)
 {
-	return (unsigned)int;
+	return (unsigned)a;
 }
