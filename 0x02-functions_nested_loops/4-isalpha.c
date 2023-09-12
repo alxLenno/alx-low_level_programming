@@ -1,5 +1,5 @@
 /**
- * _islower - Check if c in lower case
+ * _isalpha - Check if c in lower case
  * @c: The alphabet checked
  * Return: 0 if not or 1 if lower
  */
