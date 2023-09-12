@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * _islower - Check if in lower case
