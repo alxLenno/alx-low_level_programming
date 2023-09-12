@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * _islower - Check if in lower case
  * Return: 0 if not or 1 if lower
