@@ -1,3 +1,7 @@
+
+#include <stdio.h>
+#include "main.h"
+
 /**
  *  print_sign - Print sign of a number
  *  @n: is the number used 
