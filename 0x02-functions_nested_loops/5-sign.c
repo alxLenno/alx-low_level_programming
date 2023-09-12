@@ -4,7 +4,7 @@
 
 /**
  *  print_sign - Print sign of a number
- *  @n: is the number used 
+ *  @n: is the number used
  *  Return: 0 if n=0, 1 if n>0 , -1 if n<0
  */
 
