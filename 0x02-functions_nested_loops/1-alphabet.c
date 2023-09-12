@@ -10,9 +10,9 @@ int main(void)
 
 	for ( i;i < 97; i++)
 	{
-		_putchar(i);
+		putchar(i);
 	}
-	_putchar('\n');
+	putchar('\n');
 
 	return (0);
 }
