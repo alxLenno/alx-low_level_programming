@@ -3,15 +3,5 @@
  * Return: void
  */
 
-void print_alphabet(void)
-{
-	int i;
-
-	for (i = 65;i < 97;i++)
-	{
-		putchar(i);
-	}
-	putchar('/n');
-
-	return;
-}
+void print_alphabet(void);
+void _putchar(char x);
