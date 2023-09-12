@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * _islower - Check if c in lower case
+ * @c - the alphabet checked
  * Return: 0 if not or 1 if lower
  */
 
