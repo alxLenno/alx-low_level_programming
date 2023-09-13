@@ -31,10 +31,11 @@ void jack_bauer(void)
 		{
 			_putchar('0' + min);
 		}
-	}
-	min += 1;
-	if (min == 60)
-	{
-		hrs += 1;
+		min += 1;
+		if (min == 60)
+		{
+			hrs += 1;
+		}
+		_putchar('\n');
 	}
 }
